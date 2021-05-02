@@ -68,6 +68,27 @@ body {
 
 /* Hero image button from Bootstrap */
 
+/* information page with icons */
+
+.icons {
+    text-align: center;
+    margin-bottom: 40px;
+    background-color: white;
+    border-color: white;
+    border-radius: 15px;
+    min-width: 100px;
+    font-weight: bold;
+    margin-top: 40px;
+    color: #007bff; 
+}
+
+.icons i {
+    margin-bottom: 20px;
+    font-size: 45px;
+    line-height: 45px;
+}
+
+/* information page with icons */   
 
 
 
