@@ -1,0 +1,76 @@
+body {
+    font-family: 'Roboto', sans-serif;
+} 
+
+.navbar {
+    margin-bottom: 0;
+    width: 100%;
+    background-color: #ffff;
+    border: 0; 
+    font-size: bold;
+    color: #007bff;
+}  
+
+.navbar a {
+     text-decoration: none;
+}
+
+.navbar-logo {
+    position: relative;
+    margin-left: 25px;
+  
+}
+
+<!-- envirocabs logo made in Wix.com--> 
+
+
+.Envirocabs-logo { background: url("../images/envirocabs-logo.jpg");    
+    
+}  
+
+
+.hero-image  {
+    height: 100vh;
+
+    background: url('../images/Hero\ image\ page\ 1.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}  
+
+.content-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}           
+
+/* Hero image for services page from unsplash */
+
+
+   /* Hero image button from Bootstrap */
+
+.btn {
+    font-weight: bold;
+    border-radius: 23px;
+    width: 200px; 
+    position: relative;
+    left: -500px;  
+    top: -200px; 
+    color: #ffffff;
+    background-color:#007bff;
+}
+
+/* Hero image button from Bootstrap */
+
+
+
+
+
+
+
