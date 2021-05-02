@@ -8,7 +8,7 @@ body {
     background-color: #ffff;
     border: 0; 
     font-size: bold;
-    color: #007bff;
+    color: #007bff; 
 }  
 
 .navbar a {
@@ -89,6 +89,43 @@ body {
 }
 
 /* information page with icons */   
+
+/* testimonial container */  
+
+.container {
+    text-align: left;
+    margin-bottom: 10px;
+    background-color: #007bff; 
+
+    font-size: 45px;
+    line-height: 45px;
+    border-color: white;
+    border-radius: 15px;
+    width: 1200px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #ffffff;
+    
+}  
+
+.text-uppercase {
+
+    font-weight: bold;
+    color: #007bff; 
+    margin-bottom: 30px;
+}
+
+.blockquote {
+    color: #007bff;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 18px;
+    line-height: 30px;
+   margin-top: 15px;
+    
+}
+
+/* testimonial container */ 
 
 
 
