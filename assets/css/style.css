@@ -394,6 +394,24 @@ body {
 
 /* safety page grid*/ 
 
+/* Our-commitment container*/ 
+
+
+.commitment-header {
+ 
+    font-weight: bold;
+    color: #1ff354; 
+    font-size: 115%; 
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+   
+    
+}  
+
+
+/* Our-commitment container*/ 
+
 
 
 
