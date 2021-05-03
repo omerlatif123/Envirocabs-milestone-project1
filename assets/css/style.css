@@ -89,6 +89,29 @@ body {
 
 /* Hero image for services page from unsplash */ 
 
+/* Hero image for driver page from unsplash */ 
+
+.hero-image-3 {
+
+    height: 105vh;
+
+    background: url('../images/hero-image-drivers.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative; 
+   } 
+
+
+/* Hero image for driver page from unsplash */ 
+
+
 
 /* information page with icons */
 
