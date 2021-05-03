@@ -111,6 +111,27 @@ body {
 
 /* Hero image for driver page from unsplash */ 
 
+/* Hero image for safety page from pexels */ 
+
+.hero-image-4 {
+
+    height: 105vh;
+
+    background: url('../images/hero-image-safety.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative; 
+   }  
+
+   /* Hero image for safety page from pexels */ 
+
 
 
 /* information page with icons */
