@@ -287,6 +287,40 @@ body {
 
 /* services grid*/ 
 
+/* drivers page grid*/
+
+.drivers-image-1 {
+  
+    height: 50vh;
+    width: 90vh;
+
+    background: url('../images/drivers-image-1.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative; 
+
+}  
+
+.driver-text {
+    
+    font-size: 115%; 
+    color: #007bff;
+    
+
+}
+
+
+/* drivers page grid*/
+
+
+
 
 /* footer */ 
 
