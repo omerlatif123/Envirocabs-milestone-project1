@@ -412,6 +412,55 @@ body {
 
 /* Our-commitment container*/ 
 
+/* Our-commitment grid table*/ 
+
+.our-commitments-image-1 {
+  
+    height: 70vh;
+    width: 90vh;
+
+    background: url('../images/our-commitment-image-1.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative; 
+
+}  
+
+.our-commitments-image-2 {
+  
+    height: 70vh;
+    width: 90vh;
+
+    background: url('../images/our-commitment-image-2.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative; 
+
+}  
+
+.text-type   {
+
+    
+    color: #1ff354; 
+    font-size: 115%;
+  
+}
+
+/* Our-commitment grid table*/ 
 
 
 
