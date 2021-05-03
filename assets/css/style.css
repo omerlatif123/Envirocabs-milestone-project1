@@ -132,6 +132,29 @@ body {
 
    /* Hero image for safety page from pexels */ 
 
+   
+/* Hero image for our commitment page from unsplash */ 
+
+.hero-image-5 {
+
+    height: 105vh;
+
+    background: url('../images/our-commitment-hero-image.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative; 
+   }  
+
+   /* Hero image for our commitment page from pexels.com */ 
+
+
 
 
 /* information page with icons */
