@@ -175,6 +175,59 @@ body {
 
    /* Hero image for contact us page from pexels.com */ 
 
+/* contact us booking form*/ 
+
+.contact-form {
+    width: 150%; 
+}
+
+.book-button {
+  
+ 
+    width: 30%; 
+    position: relative;
+    top: 25px;
+    left: 15px;
+    background-color: #007bff;
+    color: #ffffff;
+    font-weight: bold;  
+ 
+    
+}
+
+.contact {
+    padding-top: 15px;
+}
+
+.make-booking {
+  
+    padding-bottom: 20px;
+    color: #007bff; 
+    
+}
+/* contact us booking form*/ 
+
+/* contact us booking form*/ 
+
+.booking-header {
+    margin-top: 11%;
+    color: #007bff; 
+    padding-bottom: 30px;
+
+}
+
+.booking-paragraph-header {
+    font-size: 18px;
+    color: #007bff;
+}
+
+.booking-paragraph {
+
+    font-size: 18px;
+}  
+
+
+/* contact us booking form*/ 
 
 
 
