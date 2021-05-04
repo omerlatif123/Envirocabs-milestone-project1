@@ -3,16 +3,25 @@ body {
 } 
 
 .navbar {
-    margin-bottom: 0;
-    width: 100%;
-    background-color: #ffff;
-    border: 0; 
-    font-size: bold;
-    color: #007bff; 
+
+  overflow: hidden;
+  background-color: #ffffff; 
+  color: #007bff; 
+  font-weight: bold;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+     
 }  
 
 .navbar a {
-     text-decoration: none;
+     
+  float: left;
+  display: block;
+  color: #007bff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none; 
 }
 
 .navbar-logo {
@@ -30,7 +39,7 @@ body {
 
 
 .hero-image  {
-    height: 100vh;
+    height: 150vh;
 
     background: url('../images/Hero\ image\ page\ 1.jpg') no-repeat center center;
     -webkit-background-size: cover;
@@ -42,15 +51,11 @@ body {
     align-items: center;
     justify-content: center;
 
-    position: relative;
 }  
 
-.content-container {
-    padding-top: 75px;
-    padding-bottom: 75px;
-}           
+       
 
-/* Hero image for services page from unsplash */  
+/* Hero image for home page from unsplash */  
 
 
    /* Hero image button from Bootstrap */
@@ -84,7 +89,7 @@ body {
     align-items: center;
     justify-content: center;
 
-    position: relative; 
+   
    } 
 
 /* Hero image for services page from unsplash */ 
@@ -105,7 +110,6 @@ body {
     align-items: center;
     justify-content: center;
 
-    position: relative; 
    } 
 
 
@@ -127,7 +131,7 @@ body {
     align-items: center;
     justify-content: center;
 
-    position: relative; 
+   
    }  
 
    /* Hero image for safety page from pexels */ 
@@ -149,7 +153,7 @@ body {
     align-items: center;
     justify-content: center;
 
-    position: relative; 
+   
    }  
 
    /* Hero image for our commitment page from pexels.com */ 
@@ -170,7 +174,7 @@ body {
     align-items: center;
     justify-content: center;
 
-    position: relative; 
+    
    }  
 
    /* Hero image for contact us page from pexels.com */ 
@@ -257,8 +261,8 @@ body {
 
 /* testimonial container */  
 
-.container {
-    text-align: left;
+.testimonial-container-fluid {
+    text-align: center;
     margin-bottom: 10px;
     background-color: #007bff; 
 
@@ -266,7 +270,7 @@ body {
     line-height: 45px;
     border-color: white;
     border-radius: 15px;
-    width: 1200px;
+    width: 100%;
     font-weight: bold;
     margin-top: 20px;
     color: #ffffff;
@@ -424,7 +428,6 @@ body {
     align-items: center;
     justify-content: center;
 
-    position: relative; 
 
 }  
 
