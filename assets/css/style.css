@@ -6,13 +6,29 @@ body {
 /* Navbar */
 
 
+ .navbar {
+    margin-bottom: 0%;
+    width: 100%;
+    background-color: #ffffff; 
+    border: 0;
+}  
+
+.nav-link {
+    color: #007bff;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+
+
 .navbar-toggler-icon {
-    background-color:#007bff;
+    
+
     padding: .75rem .75rem;
     font-size: 1.25rem;
     line-height: 1;
-    color: transparent;
-    border: 1px  transparent;
+    background-color: #0000FF;
+    border: 1px  #007bff;
     border-radius: .25rem;
 }
 
@@ -22,15 +38,7 @@ body {
     margin-left: 25px;
   
 }  
-
-
-
-
-.navbar-logo {
-    position: relative;
-    margin-left: 25px;
-    
-}  
+ 
 
 
 
@@ -295,7 +303,7 @@ body {
     justify-content: center;
 
     position: relative; 
-
+    
 }  
 
 .services-image-2 {
