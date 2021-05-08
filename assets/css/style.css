@@ -15,28 +15,19 @@ body {
 
 .nav-link {
     color: #007bff;
-    font-size: 20px;
+    font-size: 18px;
     margin-left: 50px;
+   
+   
 }
 
 
 
-.navbar-toggler-icon {
-    
 
-    padding: .75rem .75rem;
-    font-size: 1.25rem;
-    line-height: 1;
-    background-color: #0000FF;
-    border: 1px  #007bff;
-    border-radius: .25rem;
-}
-
-
-.navbar-logo {
+.navbar-brand {
     position: relative;
-    margin-left: 25px;
-  
+    margin-left: 8%;
+    height: 1%;
 }  
  
 
@@ -49,11 +40,12 @@ body {
     
 }  
 
+/* Hero image for home page from unsplash */ 
 
 .hero-image  {
     height: 150vh;
 
-    background: url('../images/Hero\ image\ page\ 1.jpg') no-repeat center center;
+    background: url('../images/hero-image-test.jpg') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -176,7 +168,7 @@ body {
 
     height: 105vh;
 
-    background: url('../images/contact-us-hero-image\ \(2\).jpg') no-repeat center center;
+    background: url('../images/contact-us-hero-image\ .jpg') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -306,7 +298,9 @@ body {
     
 }  
 
-.services-image-2 {
+.services-image-2 { 
+
+   
   
     height: 50vh;
     width: 90vh;
@@ -452,7 +446,7 @@ body {
     height: 70vh;
     width: 90vh;
 
-    background: url('../images/our-commitment-image-1.jpg') no-repeat center center;
+    background: url('../images/our-commitment-image=1.jpg') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -561,7 +555,8 @@ body {
 }
 
 .social-links {
-    text-align: right;
+    text-align: center;
+    padding-left: 40%;
 }
 
 .social-links li {
@@ -583,7 +578,7 @@ body {
 .follow-us {  
    font-size: 120%;  
    font-weight: bold;
-   padding-right: 100px;
+   padding-right: 30%;
    color: #007bff;
 
 }
@@ -595,7 +590,7 @@ body {
 
 .social li {
     display: inline;
-    padding-left: 300px;
+    padding-left: 50%;
     font-size: 200%; 
     color: #007bff;
     
@@ -604,7 +599,7 @@ body {
 .or {
     color: #007bff;
     display: inline;
-    padding-left: 50px;
+    padding-left: 10%;
     padding-bottom: 100px;
     font-weight: bold;
 } 
@@ -618,10 +613,8 @@ body {
 .download-header {
     font-size: 18px; 
     font-weight: bold;
-    margin: -6%;
     padding-left: 50%;
-    padding-top: -0%; 
-    padding-bottom: 6%;
+   margin-top: -5% ;
     color: #007bff;
    
 }  
