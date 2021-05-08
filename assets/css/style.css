@@ -43,7 +43,7 @@ body {
 /* Hero image for home page from unsplash */ 
 
 .hero-image  {
-    height: 150vh;
+    height: 105vh;
 
     background: url('../images/hero-image-test.jpg') no-repeat center center;
     -webkit-background-size: cover;
@@ -67,10 +67,10 @@ body {
 .btn {
     font-weight: bold;
     border-radius: 23px;
-    width: 200px; 
+    width: 150%; 
     position: relative;
-    left: -500px;  
-    top: -200px; 
+    right: -100%;  
+    top: -100px; 
     color: #ffffff;
     background-color:#007bff;
 }
@@ -283,6 +283,7 @@ body {
   
     height: 50vh;
     width: 90vh;
+    max-width: 100%;
 
     background: url('../images/services-image-1.jpg') no-repeat center center;
     -webkit-background-size: cover;
@@ -304,6 +305,7 @@ body {
   
     height: 50vh;
     width: 90vh;
+    max-width: 100%;
 
     background: url('../images/services-images-2.jpg') no-repeat center center;
     -webkit-background-size: cover;
@@ -323,6 +325,7 @@ body {
   
     height: 50vh;
     width: 90vh;
+    max-width: 100%;
 
     background: url('../images/services-images-3.jpg') no-repeat center center;
     -webkit-background-size: cover;
@@ -342,6 +345,8 @@ body {
   
     height: 60vh;
     width: 90vh;
+    max-width: 100%;
+
 
     background: url('../images/services-images-4.jpg') no-repeat center center;
     -webkit-background-size: cover;
@@ -365,6 +370,7 @@ body {
   
     height: 50vh;
     width: 90vh;
+    max-width: 100%;
 
     background: url('../images/drivers-image-1.jpg') no-repeat center center;
     -webkit-background-size: cover;
@@ -396,6 +402,7 @@ body {
   
     height: 50vh;
     width: 90vh;
+    max-width: 100%;
 
     background: url('../images/safety-image-1.jpg') no-repeat center center;
     -webkit-background-size: cover;
@@ -445,6 +452,7 @@ body {
   
     height: 70vh;
     width: 90vh;
+    max-width: 100%;
 
     background: url('../images/our-commitment-image=1.jpg') no-repeat center center;
     -webkit-background-size: cover;
@@ -464,6 +472,7 @@ body {
   
     height: 70vh;
     width: 90vh;
+    max-width: 100%;
 
     background: url('../images/our-commitment-image-2.jpg') no-repeat center center;
     -webkit-background-size: cover;
@@ -556,7 +565,7 @@ body {
 
 .social-links {
     text-align: center;
-    padding-left: 40%;
+    padding-left: 30%;
 }
 
 .social-links li {
@@ -606,7 +615,9 @@ body {
 
 .block-divider {
     background:#007bff; 
-    width: 100%;
+    width: 102%; 
+    max-width: 102%;
+   
 }
 
 
