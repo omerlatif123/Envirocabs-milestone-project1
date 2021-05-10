@@ -40,12 +40,12 @@ body {
     
 }  
 
-/* Hero image for home page from unsplash */ 
+/* Hero image for home page from pexels.com */ 
 
 .hero-image  {
     height: 105vh;
 
-    background: url('../images/hero-image-test.jpg') no-repeat center center;
+    background: url('../images/Hero\ image\ page\ 1.jpg') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -59,7 +59,7 @@ body {
 
        
 
-/* Hero image for home page from unsplash */  
+/* Hero image for home page from Pexels.com */  
 
 
    /* Hero image button from Bootstrap */
@@ -505,8 +505,18 @@ body {
 /* contact us booking form*/ 
 
 .contact-form {
-    width: 150%; 
+    width: 100%; 
+    flex: 100%;
+    max-width: 100%;
+
+}  
+
+.column-booking {
+    float: left;
+    width: 100%;
+    padding: 100px;
 }
+
 
 .book-button {
   
