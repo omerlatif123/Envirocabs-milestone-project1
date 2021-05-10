@@ -65,14 +65,18 @@ body {
    /* Hero image button from Bootstrap */
 
 .btn {
-    font-weight: bold;
-    border-radius: 23px;
-    width: 150%; 
-    position: relative;
-    right: -100%;  
-    top: -100px; 
-    color: #ffffff;
-    background-color:#007bff;
+  display: block;
+  width: 100%;
+  border: none;
+  font-weight: bold;
+  border-radius: 23px;
+  background-color: #04AA6D;
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+
+
 }
 
 /* Hero image button from Bootstrap */  
@@ -104,7 +108,7 @@ body {
 
     height: 105vh;
 
-    background: url('../images/hero-image-drivers.jpg') no-repeat center center;
+    background: url('../images/hero-image-test.jpg') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
