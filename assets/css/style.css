@@ -116,7 +116,9 @@ body {
     
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: center;  
+
+    
 
    } 
 
@@ -286,8 +288,8 @@ body {
 .services-image-1 {
   
     height: 50vh;
-    width: 90vh;
-    max-width: 100%;
+    width: auto;
+   
 
     background: url('../images/services-image-1.jpg') no-repeat center center;
     -webkit-background-size: cover;
@@ -299,9 +301,11 @@ body {
     align-items: center;
     justify-content: center;
 
-    position: relative; 
+   
     
 }  
+
+
 
 .services-image-2 { 
 
@@ -321,7 +325,7 @@ body {
     align-items: center;
     justify-content: center;
 
-    position: relative; 
+    
 
 }  
 
@@ -341,7 +345,7 @@ body {
     align-items: center;
     justify-content: center;
 
-    position: relative; 
+ 
 
 }  
 
@@ -362,7 +366,6 @@ body {
     align-items: center;
     justify-content: center;
 
-    position: relative; 
 
 }  
 
@@ -381,10 +384,8 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
+   
+
 
 
 }  
