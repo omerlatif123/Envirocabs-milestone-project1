@@ -245,7 +245,9 @@ body {
     line-height: 30px;
     margin-top: 15px;
     
-}
+}  
+
+
 
 
 
@@ -290,9 +292,16 @@ body {
     font-weight: bold;
     color: #007bff;
     margin-bottom: 40px;
-    padding-top: 2%;
+    padding: 3%;
+    padding-bottom: 0%;
    
 }  
+
+.services-text {
+    padding: 3%;
+    padding-top: 0%;
+}
+
 
 /* services container */ 
 /* services grid from W3schools*/ 
@@ -394,7 +403,27 @@ body {
 
 }  
 
+#services-grid-header {
+    padding: 2%;  
+   
+}
+
+#services-grid-paragraph {
+    padding: 2%;
+}
 /* services grid*/ 
+
+/* drivers icon section*/
+
+
+#icon-text {
+    padding-left: 8%;
+}
+ 
+#icons-text-a {
+    padding-left:10%;
+}
+/* drivers icon section*/
 
 /* drivers page grid*/
 
