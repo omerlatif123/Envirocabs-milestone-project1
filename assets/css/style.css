@@ -43,7 +43,7 @@ body {
 /* Hero image for home page from pexels.com */ 
 
 .hero-image  {
-    height: 105vh;
+    height: 90vh;
 
     background: url('../images/Hero\ image\ page\ 1.jpg') no-repeat center center;
     -webkit-background-size: cover;
@@ -85,7 +85,7 @@ body {
      
    .hero-image-2 {
 
-    height: 105vh;
+    height: 90vh;
 
     background: url('../images/hero-image-services.jpg') no-repeat center center;
     -webkit-background-size: cover;
@@ -106,7 +106,7 @@ body {
 
 .hero-image-3 {
 
-    height: 105vh;
+    height: 90vh;
 
     background: url('../images/hero-image-test.jpg') no-repeat center center;
     -webkit-background-size: cover;
@@ -129,7 +129,7 @@ body {
 
 .hero-image-4 {
 
-    height: 105vh;
+    height: 90vh;
 
     background: url('../images/hero-image-safety.jpg') no-repeat center center;
     -webkit-background-size: cover;
@@ -151,7 +151,7 @@ body {
 
 .hero-image-5 {
 
-    height: 105vh;
+    height: 90vh;
 
     background: url('../images/our-commitment-hero-image.jpg') no-repeat center center;
     -webkit-background-size: cover;
@@ -172,7 +172,7 @@ body {
 
  .hero-image-6 {
 
-    height: 105vh;
+    height: 100vh;
 
     background: url('../images/contact-us-hero-image\ .jpg') no-repeat center center;
     -webkit-background-size: cover;
@@ -415,6 +415,14 @@ body {
 
 /* drivers icon section*/
 
+.fa-user-check {
+    padding-left: 5%;
+}
+
+
+.fa-headset {
+    padding-left: 5%;
+}
 
 #icon-text {
     padding-left: 8%;
@@ -486,6 +494,26 @@ body {
 }
 
 /* safety page grid*/ 
+
+/* safety icon section*/ 
+#safety-icon-text { 
+    padding-left: 5%;
+
+} 
+
+#safety-shield-icon-text {
+    padding-left: 5%;
+} 
+
+.fa-spray-can {
+    padding-left: 5%;
+}
+
+#spray-can-text {
+    padding-left: 5%;
+}
+
+/* safety icon section*/ 
 
 /* Our-commitment container*/ 
 
