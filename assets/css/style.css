@@ -1,3 +1,5 @@
+
+
 body {
     font-family: 'Roboto', sans-serif;
 } 
@@ -43,7 +45,9 @@ body {
 /* Hero image for home page from pexels.com */ 
 
 .hero-image  {
-    height: 90vh;
+    height: 90vh; 
+    max-width: 100%;
+    
 
     background: url('../images/Hero\ image\ page\ 1.jpg') no-repeat center center;
     -webkit-background-size: cover;
@@ -54,6 +58,9 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    
+    
+   
     
 }  
       
@@ -196,16 +203,25 @@ body {
     background-color: white;
     border-color: white;
     border-radius: 15px;
-    min-width: 100px;
     font-weight: bold;
     margin-top: 40px;
     color: #007bff; 
+    
 }
 
 .icons i {
     margin-bottom: 20px;
     font-size: 45px;
     line-height: 45px;
+} 
+
+#icons-text {
+    padding-left: 5%;
+}  
+
+.row {
+    margin-right: 0px; 
+    margin-left: 0px;
 }
 
 /* information page with icons */   
@@ -307,16 +323,10 @@ body {
 
 .column {
   float: left;
-  width: 50%;
+  width: 25%;
   padding:50px;
 }
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-} 
 
 .services-image-1 {
   
@@ -415,20 +425,20 @@ body {
 /* drivers icon section*/
 
 .fa-user-check {
-    padding-left: 5%;
+    padding-left: 3%;
 }
 
 
 .fa-headset {
-    padding-left: 5%;
+    padding-left: 3%;
 }
 
 #icon-text {
-    padding-left: 8%;
+    padding-left: 3%;
 }
  
 #icons-text-a {
-    padding-left:10%;
+    padding-left:5%;
 }
 /* drivers icon section*/
 
@@ -658,7 +668,10 @@ body {
 
 
 /* footer */ 
-
+.footer-container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+}
 
 .footer {
     background-color: #ffff;
@@ -717,8 +730,8 @@ body {
 
 .block-divider {
     background:#007bff; 
-    width: 102%; 
-    max-width: 102%;
+    width: 100%; 
+    max-width: 100%;
    
 }
 
@@ -727,7 +740,7 @@ body {
     font-size: 18px; 
     font-weight: bold;
     padding-left: 50%;
-   margin-top: -6% ;
+    margin-top: -6% ;
     color: #007bff;
    
 }  
