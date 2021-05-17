@@ -604,6 +604,12 @@ body {
 
 }  
 
+.g-3 {
+    width:100%; 
+    margin-right: 10%;
+}
+
+
 .column-booking {
     float: left;
     width: 100%;
@@ -614,7 +620,7 @@ body {
 .book-button {
   
  
-    width: 30%; 
+    width: 50%; 
     position: relative;
     top: 25px;
     left: 15px;
@@ -635,6 +641,10 @@ body {
     color: #007bff; 
     
 }
+
+
+
+
 /* contact us booking form*/ 
 
 /* Our contact details section*/ 
