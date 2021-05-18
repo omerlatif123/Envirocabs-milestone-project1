@@ -606,7 +606,7 @@ body {
 
 .g-3 {
     width:100%; 
-    margin-right: 10%;
+    padding: 5%;
 }
 
 
@@ -638,6 +638,7 @@ body {
 .make-booking {
   
     padding-bottom: 20px;
+    padding-left: 10%;
     color: #007bff; 
     
 }
