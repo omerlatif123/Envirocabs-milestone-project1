@@ -643,6 +643,16 @@ body {
     
 }
 
+#form-control-booking-date {
+    width: 115%;
+    padding-left: 10%;
+    padding: .100rem .0rem;
+}
+
+.container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+}
 
 
 
