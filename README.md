@@ -1,6 +1,12 @@
 
 # Milestone Project 1-Envirocabs Website
 
+![Envirocabs Mockup Images](assets/readme-files/mock-up.png)
+
+
+
+
+
 What is the purpose? 
 
 The company wants the website to be simple and visually attractive to its customers. They also want website viewers to be given the opportunity to quickly book a cab or download their app with ease through the website. This is the overall goal of the company to have new and existing customers to book cabs.  Envirocabs has also stated that they want to further expand their social media presence and therefore this must be highlighted on their website, to allow website visitors to access their Instagram, Facebook, Twitter and Snap chat.  
