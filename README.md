@@ -141,9 +141,28 @@ Our client is Envirocabs a start-up minicab office that is environmentally frien
      For further information about the company’s initiatives the visitor can click on our commitments heading. The page will highlight the company’s commitment to the environment through its plant a tree initiative. It will highlight Envirocabs commitment to work with and support local communities through environmental schemes. Furthermore, local communities will be educated on sustainable living and becoming greener.  
 
       
+## Skeleton
+
+Wireframe mockups were created in a Balsamic with our clients and potential visitors goal in mind.
+
+Home Page:
+![home Page Wireframe](assets/readme-files/home-wireframe-page.png "home Page Wireframe")
 
 
+Services Page:
+![services Page Wireframe](assets/readme-files/services-page.png "services Page Wireframe")
 
+Drivers Page:
+![drivers Page Wireframe](assets/readme-files/drivers-page.png "drivers Page Wireframe")
+
+ Safety Page:
+![safety Page Wireframe](assets/readme-files/safety-page.png "safety Page Wireframe")
+
+Our Commitment Page:
+![our commitment Page Wireframe](assets/readme-files/our-commitment-page.png "our commitment Page Wireframe")
+
+Contact Us Page:
+![contact us Page Wireframe](assets/readme-files/contact-us-page.png " contact us Page Wireframe")
 
 # Design
 
@@ -272,21 +291,21 @@ Both Slack and researching to resolve this issue took considerable amount of tim
 •	JavaScript - Used to implement a function that allowed the Navbar to change to toggle drop down menu when user views webpage in mobile device, for UX purposes.
 Frameworks, Libraries & Programs Used
 
-•	Getbootstrap.com/ -Bootstrap was used to implement the responsiveness of the site and style to the website. Boostrap provided grids and containers for the site.
+•	[Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/) -Bootstrap was used to implement the responsiveness of the site and style to the website. Boostrap provided grids and containers for the site.
 
-•	W3schools.com -Like Boostrap W3schools was used implement responsiveness and design to the site. Furthermore, provided valuable information when I was stuck or unsure about certain parts of the website.   
+•	[W3schools](W3schools.com) -Like Boostrap W3schools was used implement responsiveness and design to the site. Furthermore, provided valuable information when I was stuck or unsure about certain parts of the website.   
 
-•	Pexels.com -Pexels was used to provide the high-quality free images in the webpage either the hero image or image sections part of the website.  
+•	[Pexels](Pexels.com) -Pexels was used to provide the high-quality free images in the webpage either the hero image or image sections part of the website.  
 
-•	Unsplash.com -was used to provide the high-quality free images in the webpage either the hero image or image sections part of the website.  
+•	[Unsplash](Unsplash.com) -was used to provide the high-quality free images in the webpage either the hero image or image sections part of the website.  
 
-•	Freepik.com -Out of all the free images sights, freepik’s provided me with the best quality images which has been used for all the hero images across the site. 
+•	[Freepik](Freepik.com) -Out of all the free images sights, freepik’s provided me with the best quality images which has been used for all the hero images across the site. 
 
-•	Pixabay.com  -Free image site that has been used for image section of the website.  
+•	[Pixabay](Pixabay.com)  -Free image site that has been used for image section of the website.  
 
-•	fonts.google.com - Google fonts was used to import the fonts "Roboto" and Sans Serif" into the style.css file. These fonts were used throughout the project.
+•	[Google fonts](fonts.google.com) - Google fonts was used to import the fonts "Roboto" and Sans Serif" into the style.css file. These fonts were used throughout the project.
 
-•	fontawesome.com -was used on all pages throughout the website to import icons (e.g. social media icons) for UX purposes.
+•	[Fontawesome](fontawesome.com) -was used on all pages throughout the website to import icons (e.g. social media icons) for UX purposes.
 
 •	Gitpod - was used as the platform to write our code and display the look of our website.
     The GitPod terminal was used to write our code add a message to commit to Git and push to GitHub.
@@ -295,7 +314,7 @@ Frameworks, Libraries & Programs Used
 
 •	Balsamic -Balsamic was used to create the wireframes during the design phase.
 
-•   ami.responsivedesign.is - Am I Responsive was used to generate mockup imagery to be used.
+•   [Am I Responsive](ami.responsivedesign.is) - Am I Responsive was used to generate mockup imagery to be used.
 
 # Deployment
  
