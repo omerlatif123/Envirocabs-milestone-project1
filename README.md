@@ -6,8 +6,76 @@
 
 [View the live project here](https://omerlatif123.github.io/Envirocabs-milestone-project1/)
 
+# Index
 
-What is the purpose? 
+1. [What is the purpose?](#What-is-the-purpose?)
+
+2. [UX](#UX) 
+
+ <ul>
+
+ i. [Visitor goals](#Visitor-goals)
+
+ii. [Envirocabs goals](#Envirocabs-goals) 
+
+</ul>
+
+3. [Structure](#Structure) 
+
+4. [Design](#Design)  
+
+<ul>
+
+ i.[Design Features](#Design-Features)  
+
+ii.[Existing Features](#Existing-Features) 
+
+iii.[Differences to Design](#Differences-to-Design)
+
+</ul>
+
+5. [Issues and bugs encountered](#Issues-and-bugs-encountered)
+
+
+6. [Technologies Used](#Technologies-Used)
+   
+   <ul>
+
+   i. [Main Languages Used](#Main-Languages-Used)
+  
+   ii. [Additional Languages Used](#Additional-Languages-Used)
+
+   </ul>
+
+
+7. [Testing](#Testing)
+
+
+8. [Deployment](#Deployment)
+     
+     <ul>
+     
+     i. [Deploying on GitHub Pages](#Deploying-on-GitHub-Pages)
+     
+     ii. [Forking the Repository](#Forking-the-Repository)
+     
+     iii. [Creating a Clone](#Creating-a-Clone)
+     
+     </ul>
+
+9. [Credits](#Credits)
+
+   <ul>  
+
+     i. [Media](#Media)
+
+     ii. [Code](#Code)
+
+     iii.[Acknowledgements](#Acknowledgements)
+   
+   </ul>
+#
+### What is the purpose? 
 
 The company wants the website to be simple and visually attractive to its customers. They also want website viewers to be given the opportunity to quickly book a cab or download their app with ease through the website. This is the overall goal of the company to have new and existing customers to book cabs.  Envirocabs has also stated that they want to further expand their social media presence and therefore this must be highlighted on their website, to allow website visitors to access their Instagram, Facebook, Twitter and Snap chat.  
 
@@ -30,7 +98,7 @@ Our client is Envirocabs a start-up minicab office that is environmentally frien
 4)	We want visitors to be aware of our social media presence, follow us on various media platform to expand our brand.  
 5)	We want visitors to be aware our community initiatives, this will be good PR for the company.  
 
-####
+## Structure 
 
 1)	I want to be able to navigate through the website quick and easily.   
     
@@ -93,6 +161,8 @@ The images used are all related to section of the website the user is on, for ex
 
 # Features 
 
+## Design Features
+
 ### <strong>Header</strong>
 
 Contains Envirocabs logo in the top left of screen and when clicked will redirect user back to home page. The right of the navigation bar contains headings (our Services, Drivers, Safety, Our Commitment and Contact us when clicked will direct user to appropriate page of website. 
@@ -132,7 +202,8 @@ Hero image- The large hero image below the navbar will be relevant to the sectio
 Quote container- has a large commitment message from Envirocabs.
 Information container with picture - provides the relevant information to the customer about the environmental initiatives and commitments Envirocabs has implemented. The sections alternate with information and images. One section of information provides details on Envirocabs plant a tree campaign and the other section of information provide details of procedures Envirocabs has introduced to become greener. Green has been used for the text colour to reinforce the concept of environmentally friendly.
 
-### <strong>Contact us section<strong>
+
+### <strong>Contact us section</strong>
 
 
 Hero image- The large hero image below the navbar will be relevant to the section. 
@@ -140,19 +211,21 @@ Hero image- The large hero image below the navbar will be relevant to the sectio
 Booking form- below the hero image the page is split into two. On the left side is contact details of the companies registered address, email, and telephone number. On the right side of the page a simple form to book a cab, asks user/customer to provide their full name, contact number, email, pickup/drop off address, date, and time. All relevant information must be provided before larger book button can be clicked.
 
 
-# Existing Features
+#
+## Existing Features
 
--Envirocabs logo- Contains Envirocabs logo in the top left of screen and when clicked will redirect user back to home page, located on all pages. 
+- Envirocabs logo- Contains Envirocabs logo in the top left of screen and when clicked will redirect user back to home page, located on all pages. 
 
--Navigation bar- The navigation bar contains headings (our Services, Drivers, Safety, Our Commitment and Contact us) when clicked will direct user to appropriate page of website. On smaller screens, the navigation bar collapses into a toggler icon. Clicking it will reveal navigation headings.  
+- Navigation bar- The navigation bar contains headings (our Services, Drivers, Safety, Our Commitment and Contact us) when clicked will direct user to appropriate page of website. On smaller screens, the navigation bar collapses into a toggler icon. Clicking it will reveal navigation headings.  
  
-Make a booking Button-When clicked will redirect the user to the contact us page, which contains the booking form. There is only one make a booking button on the home page hero image, the other sections hero images do not have a button. 
+- Make a booking Button-When clicked will redirect the user to the contact us page, which contains the booking form. There is only one make a booking button on the home page hero image, the other sections hero images do not have a button. 
 
-Footer-contains make a booking button when clicked will direct the user to contact us page, which contains the booking form. The footer also contains download our app text with Apple and android icons. When clicked either one this will take you to the Apple or Samsung webpages. The footer contains social links to Twitter, Snapchat, Instagram, and Facebook.  
+- Footer-contains make a booking button when clicked will direct the user to contact us page, which contains the booking form. The footer also contains download our app text with Apple and android icons. When clicked either one this will take you to the Apple or Samsung webpages. The footer contains social links to Twitter, Snapchat, Instagram, and Facebook.  
 
 - Contact Form - This can be completed on the contact us page and used to book a cab. Brief information is required from the user/customer to complete the form. If any information is missing the form will specify. 
 
-#### Differences to Design
+#
+## Differences to Design
 
 In the original design, the booking button and download our app link was in the footer even when reduced to mobile device size. Current design the section is hidden when reduced to a smaller size this something that should be rectified in the future. The reason why this section is hidden when website is reduced in size is because the footer looks cluttered and visually unappealing. 
 
@@ -183,9 +256,7 @@ Both Slack and researching to resolve this issue took considerable amount of tim
 <strong>Hero images</strong>- issue with quality of free images online, replaced images with higher quality ones as on other devices images looked grainy and blurred.   
  
 
-Booking form- 
-
-Overflow issues- when using website on any devices there was a gap being created so advise from students on slack to use unicorn revealer to work out where overflow is on the page, then I used dev tools to work out what was causing problem released some container margin-right and left were set at 15px when I corrected this to 0px for both, this resolved the issue and the overflow disappeared. 
+<strong>Overflow issues</strong>- when using website on any devices there was a gap being created so advise from students on slack to use unicorn revealer to work out where overflow is on the page, then I used dev tools to work out what was causing problem released some container margin-right and left were set at 15px when I corrected this to 0px for both, this resolved the issue and the overflow disappeared. 
 
 
 # Technologies Used
@@ -198,54 +269,33 @@ Overflow issues- when using website on any devices there was a gap being created
 
 #### Additional Languages Used
 
-•	JavaScript
-
--Used to implement a function that allowed the Navbar to change to toggle drop down menu when user views webpage in mobile device, for UX purposes.
+•	JavaScript - Used to implement a function that allowed the Navbar to change to toggle drop down menu when user views webpage in mobile device, for UX purposes.
 Frameworks, Libraries & Programs Used
 
-•	Getbootstrap.com/
-	
--Bootstrap was used to implement the responsiveness of the site and style to the website. Boostrap provided grids and containers for the site.
+•	Getbootstrap.com/ -Bootstrap was used to implement the responsiveness of the site and style to the website. Boostrap provided grids and containers for the site.
 
-•	W3schools.com 
+•	W3schools.com -Like Boostrap W3schools was used implement responsiveness and design to the site. Furthermore, provided valuable information when I was stuck or unsure about certain parts of the website.   
 
--Like Boostrap W3schools was used implement responsiveness and design to the site. Furthermore, provided valuable information when I was stuck or unsure about certain parts of the website.   
+•	Pexels.com -Pexels was used to provide the high-quality free images in the webpage either the hero image or image sections part of the website.  
 
-•	Pexels.com 
+•	Unsplash.com -was used to provide the high-quality free images in the webpage either the hero image or image sections part of the website.  
 
--Pexels was used to provide the high-quality free images in the webpage either the hero image or image sections part of the website.  
+•	Freepik.com -Out of all the free images sights, freepik’s provided me with the best quality images which has been used for all the hero images across the site. 
 
-•	Unsplash.com
+•	Pixabay.com  -Free image site that has been used for image section of the website.  
 
--Like Pexels Unsplash.com was used to provide the high-quality free images in the webpage either the hero image or image sections part of the website.  
+•	fonts.google.com - Google fonts was used to import the fonts "Roboto" and Sans Serif" into the style.css file. These fonts were used throughout the project.
 
-•	Freepik.com    
+•	fontawesome.com -was used on all pages throughout the website to import icons (e.g. social media icons) for UX purposes.
 
--Out of all the free images sights, freepik’s provided me with the best quality images which has been used for all the hero images across the site. 
+•	Gitpod - was used as the platform to write our code and display the look of our website.
+    The GitPod terminal was used to write our code add a message to commit to Git and push to GitHub.
 
-•	Pixabay.com  
+•	GitHub -GitHub was used to store the project after pushing
 
--Free image site that has been used for image section of the website.  
+•	Balsamic -Balsamic was used to create the wireframes during the design phase.
 
-•	Google Fonts
-
--Google fonts was used to import the fonts "Roboto" and Sans Serif" into the style.css file. These fonts were used throughout the project.
-
-•	Font Awesome
-
--Font Awesome was used on all pages throughout the website to import icons (e.g. social media icons) for UX purposes.
-
-•	Gitpod
-
--Gitpod was used as the platform to write our code and display the look of our website. The GitPod terminal was used to write our code add a message to commit to Git and push to GitHub.
-
-•	GitHub
-
--GitHub was used to store the project after pushing
-
-•	Balsamic
-
--Balsamic was used to create the wireframes during the design phase.
+•   ami.responsivedesign.is - Am I Responsive was used to generate mockup imagery to be used.
 
 # Deployment
  
@@ -293,7 +343,7 @@ I consulted multiple sites to better understand code that I was trying to implem
 
 •	Bootstrap
 
-#### Acknowledgements
+### Acknowledgements
 
 •	Code Institute for giving me the know how to create my own website.
 
