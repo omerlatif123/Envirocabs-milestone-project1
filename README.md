@@ -1,10 +1,10 @@
 
 # Milestone Project 1-Envirocabs Website
 
-![Envirocabs Mockup Images](assets/readme-files/mock-up.png)
+<img src="assets/images/mockup-image.jpg">
 
 
-
+[View the live project here](https://omerlatif123.github.io/Envirocabs-milestone-project1/)
 
 
 What is the purpose? 
