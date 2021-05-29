@@ -22,7 +22,9 @@ ii. [Envirocabs goals](#Envirocabs-goals)
 
 3. [Structure](#Structure) 
 
-4. [Design](#Design)  
+4. [Wireframes](#Wireframes) 
+
+5. [Design](#Design)  
 
 <ul>
 
@@ -34,10 +36,10 @@ iii.[Differences to Design](#Differences-to-Design)
 
 </ul>
 
-5. [Issues and bugs encountered](#Issues-and-bugs-encountered)
+6. [Issues and bugs encountered](#Issues-and-bugs-encountered)
 
 
-6. [Technologies Used](#Technologies-Used)
+7. [Technologies Used](#Technologies-Used)
    
    <ul>
 
@@ -48,10 +50,10 @@ iii.[Differences to Design](#Differences-to-Design)
    </ul>
 
 
-7. [Testing](#Testing)
+8. [Testing](#Testing)
 
 
-8. [Deployment](#Deployment)
+9. [Deployment](#Deployment)
      
      <ul>
      
@@ -63,18 +65,21 @@ iii.[Differences to Design](#Differences-to-Design)
      
      </ul>
 
-9. [Credits](#Credits)
+10. [Credits](#Credits)
 
-   <ul>  
+ <ul>  
 
-     i. [Media](#Media)
+ i. [Media](#Media)
 
-     ii. [Code](#Code)
+ ii. [Code](#Code)
 
-     iii.[Acknowledgements](#Acknowledgements)
+ iii.[Acknowledgements](#Acknowledgements)
    
-   </ul>
+</ul>
+
 #
+
+
 ### What is the purpose? 
 
 The company wants the website to be simple and visually attractive to its customers. They also want website viewers to be given the opportunity to quickly book a cab or download their app with ease through the website. This is the overall goal of the company to have new and existing customers to book cabs.  Envirocabs has also stated that they want to further expand their social media presence and therefore this must be highlighted on their website, to allow website visitors to access their Instagram, Facebook, Twitter and Snap chat.  
@@ -144,6 +149,8 @@ Our client is Envirocabs a start-up minicab office that is environmentally frien
 ## Skeleton
 
 Wireframe mockups were created in a Balsamic with our clients and potential visitors goal in mind.
+Images section in the wireframes have been higlighted in blue, this was previously due to the images from the wireframe being different from the completed website. 
+Furthermore the images used on the final Envirocabs website are free to use images causing no copyright/royalty payment concerns. Some of the images from the wireframes may not have been copyright/royalty free and therefore the imagess have bee covered as a precaution. 
 
 Home Page:
 ![home Page Wireframe](assets/readme-files/home-wireframe-page.png "home Page Wireframe")
@@ -167,8 +174,27 @@ Contact Us Page:
 # Design
 
 ### Colour Scheme
-The two main colours used are Blue![# 007bff](https://placehold.it/15/1e7e34/000000?text=+) and white # fffff (https://placehold.it/15/181818/000000?text=+) as these colours compliment the logo of Envirocabs which is a blue lightning bolt piercing a car. The colour concept is blue because this is associated with the colour of electricity this relates to our vehicles being 100% electric. White was used as a contrast to blue and gives the website a simplistic but professional look. The website should look appealing but should allow the customer to focus on the content rather than to visually distracted by an array of colours.
-Green [#] was picked for the Our Commitment page in which we the client wanted to highlight their green initiatives and procedures Envirocabs is implementing to go greener. Environment is always associated with green and therefore we wanted to highlight this. All other webpages have blue text, but Our Commitment page has green text. The sudden colour change will draw the attention of the user when they are on this page.   
+The two main colours used are Blue and White as these colours compliment the Envirocabs logo. The colour concept is blue because this is associated with the colour of electricity this relates to our vehicles being 100% electric. White was used as a contrast to blue and gives the website a simplistic but professional and sytlish look. The website should look appealing but should allow the customer to focus on the content rather than to visually distracted by an array of colours.
+Green was picked for the Our Commitment page in which we the client wanted to highlight their green initiatives and procedures Envirocabs is implementing to go greener. Environment is associated with green and therefore we wanted this to be highlight. All other webpages have blue text, but Our Commitment page has green text. The sudden colour change will draw the attention of the user when they are on this page.   
+
+ #### Colours used in website background and text.
+
+- ![#fff](https://via.placeholder.com/15/fff/000000?text=+) **White** (#fff),
+- ![#007bff](https://via.placeholder.com/15/007bff/000000?text=+) **Blue** (#007bff),
+- ![##04AA6D](https://via.placeholder.com/15/04AA6D/000000?text=+) **Green** (#04AA6D),
+
+ #### Colours used in grids, containers and other sections. 
+
+![colour-1](assets/readme-files/colour-1.png)
+![colour-2](assets/readme-files/colour-2.png)
+![colour-3](assets/readme-files/colour-3.png)
+![colour-4](assets/readme-files/colour-4.png)
+![colour-5](assets/readme-files/colour-5.png)
+![colour-6](assets/readme-files/colour-6.png)
+![colour-7](assets/readme-files/colour-7.png)
+![colour-8](assets/readme-files/colour-8.png)
+![colour-9](assets/readme-files/colour-9.png)
+
 
 #### Typography
 The headers on all pages throughout the Website and main text is using the font ‘Roboto’ with default text of ‘San-Serif’. The header text and parts of the main text are bold catching the user’s eye. We have kept our content at a minimal not to make our website cluttered or causing the user cognitive overload with large amount of information text. Furthermore when researching other cab webpages such as uber,bolt etc have minimalistic content.
