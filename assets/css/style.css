@@ -254,7 +254,7 @@ body {
 }
 
 .blockquote {
-    color: #007bff;
+    color: #232425;
     margin-bottom: 10px;
     font-size: 18px;
     line-height: 30px;
@@ -604,10 +604,6 @@ body {
 
 }  
 
-.g-3 {
-    width:100%; 
-    padding: 5%;
-}
 
 
 .column-booking {
@@ -643,11 +639,7 @@ body {
     
 }
 
-#form-control-booking-date {
-    width: 115%;
-    padding-left: 10%;
-    padding: .100rem .0rem;
-}
+
 
 .container-fluid {
     padding-right: 0px;
@@ -783,6 +775,23 @@ body {
   
 } 
 
+@media only screen and (max-width: 600px) {
+.social-links {
+    padding-left: 0%;
+  }
+} 
+
+
+@media only screen and (max-width: 790px) {
+
+    .download-header {
+        padding-left: 0%;
+        
+    }
+
+    
+  }
+ 
 
 /* button from W3schools */ 
 
