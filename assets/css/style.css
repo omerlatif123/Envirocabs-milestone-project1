@@ -1,801 +1,664 @@
-
-
 body {
-    font-family: 'Roboto', sans-serif;
-} 
+	font-family: 'Roboto', sans-serif;
+}
 
 
 /* Navbar */
 
-
- .navbar {
-    margin-bottom: 0%;
-    width: 100%;
-    background-color: #ffffff; 
-    border: 0;
-}  
+.navbar {
+	margin-bottom: 0%;
+	width: 100%;
+	background-color: #ffffff;
+	border: 0;
+}
 
 .nav-link {
-    color: #007bff;
-    font-size: 18px;
-    margin-left: 50px;
-   
-   
+	color: #007bff;
+	font-size: 18px;
+	margin-left: 50px;
 }
-
-
-
 
 .navbar-brand {
-    position: relative;
-    margin-left: 8%;
-    height: 1%;
-}  
- 
-
-
-
-<!-- envirocabs logo made in Wix.com--> 
-
-
-.Envirocabs-logo { background: url("../images/envirocabs-logo.jpg");    
-    
-}  
-
-/* Hero image for home page from pexels.com */ 
-
-.hero-image  {
-    height: 90vh; 
-    max-width: 100%;
-    
-
-    background: url('../images/Hero\ image\ page\ 1\ test.jpg') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    
-    
-   
-    
-}  
-      
-
-/* Hero image for home page from Pexels.com */  
-
-
-   /* Hero image button from Bootstrap */
-
-.btn {
-  display: block;
-  width: 100%;
-  border: none;
-  font-weight: bold;
-  border-radius: 23px;
-  background-color: #04AA6D;
-  padding: 10px 15px;
-  font-size: 16px;
-  cursor: pointer;
-  text-align: center;
-
-
+	position: relative;
+	margin-left: 8%;
+	height: 1%;
 }
 
-/* Hero image button from Bootstrap */  
+<!-- envirocabs logo made in Wix.com-->.Envirocabs-logo {
+	background: url("../images/envirocabs-logo.jpg");
+}
+
+
+/* Hero image for home page from pexels.com */
+
+.hero-image {
+	height: 90vh;
+	max-width: 100%;
+	background: url('../images/Hero\ image\ page\ 1\ test.jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+
+/* Hero image for home page from Pexels.com */
+
+
+/* Hero image button from Bootstrap */
+
+.btn {
+	display: block;
+	width: 100%;
+	border: none;
+	font-weight: bold;
+	border-radius: 23px;
+	background-color: #04AA6D;
+	padding: 10px 15px;
+	font-size: 16px;
+	cursor: pointer;
+	text-align: center;
+}
+
+
+/* Hero image button from Bootstrap */
+
 
 /* Hero image for services page from unsplash */
-     
-   .hero-image-2 {
 
-    height: 90vh;
+.hero-image-2 {
+	height: 90vh;
+	background: url('../images/hero-image-services\ \(1\).jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
 
-    background: url('../images/hero-image-services\ \(1\).jpg') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
 
-   
-   } 
+/* Hero image for services page from unsplash */
 
-/* Hero image for services page from unsplash */ 
 
-/* Hero image for driver page from unsplash */ 
+/* Hero image for driver page from unsplash */
 
 .hero-image-3 {
-
-    height: 90vh;
-
-    background: url('../images/hero-image-drivers.jpg') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;  
-
-    
-
-   } 
+	height: 90vh;
+	background: url('../images/hero-image-drivers.jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
 
 
-/* Hero image for driver page from unsplash */ 
+/* Hero image for driver page from unsplash */
 
-/* Hero image for safety page from pexels */ 
+
+/* Hero image for safety page from pexels */
 
 .hero-image-4 {
+	height: 90vh;
+	background: url('../images/hero-image-safety.jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
 
-    height: 90vh;
 
-    background: url('../images/hero-image-safety.jpg') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
+/* Hero image for safety page from pexels */
 
-   
-   }  
 
-   /* Hero image for safety page from pexels */ 
-
-   
-/* Hero image for our commitment page from unsplash */ 
+/* Hero image for our commitment page from unsplash */
 
 .hero-image-5 {
+	height: 90vh;
+	background: url('../images/our-commitment-hero-image\ \(1\).jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
 
-    height: 90vh;
 
-    background: url('../images/our-commitment-hero-image\ \(1\).jpg') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
+/* Hero image for our commitment page from pexels.com */
 
-   
-   }  
 
-   /* Hero image for our commitment page from pexels.com */ 
+/* Hero image for contact us page from pexels.com */
 
-   /* Hero image for contact us page from pexels.com */ 
+.hero-image-6 {
+	height: 95vh;
+	background: url('../images/contact-us-hero-image-test.jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
 
- .hero-image-6 {
 
-    height: 95vh;
+/* Hero image for contact us page from pexels.com */
 
-    background: url('../images/contact-us-hero-image-test.jpg') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
 
-    
-   }  
-
-   /* Hero image for contact us page from pexels.com */ 
-   
 /* information page with icons */
 
 .icons {
-    text-align: center;
-    margin-bottom: 40px;
-    background-color: white;
-    border-color: white;
-    border-radius: 15px;
-    font-weight: bold;
-    margin-top: 40px;
-    color: #007bff; 
-    
+	text-align: center;
+	margin-bottom: 40px;
+	background-color: white;
+	border-color: white;
+	border-radius: 15px;
+	font-weight: bold;
+	margin-top: 40px;
+	color: #007bff;
 }
 
 .icons i {
-    margin-bottom: 20px;
-    font-size: 45px;
-    line-height: 45px;
-} 
-
-#icons-text {
-    padding-left: 5%;
-}  
-
-.row {
-    margin-right: 0px; 
-    margin-left: 0px;
+	margin-bottom: 20px;
+	font-size: 45px;
+	line-height: 45px;
 }
 
-/* information page with icons */   
+#icons-text {
+	padding-left: 5%;
+}
 
-/* testimonial container and grid */  
+.row {
+	margin-right: 0px;
+	margin-left: 0px;
+}
 
 
+/* information page with icons */
+
+
+/* testimonial container and grid */
 
 .testimonial-container {
-    text-align: center;
-    margin-bottom: 10px;
-    background-color: #007bff; 
-
-    font-size: 45px;
-    line-height: 45px;
-    border-color: white;
-    border-radius: 15px;
-    width: 100%;
-    font-weight: bold;
-    margin-top: 20px;
-    color: #ffffff;
-    
-}  
+	text-align: center;
+	margin-bottom: 10px;
+	background-color: #007bff;
+	font-size: 45px;
+	line-height: 45px;
+	border-color: white;
+	border-radius: 15px;
+	width: 100%;
+	font-weight: bold;
+	margin-top: 20px;
+	color: #ffffff;
+}
 
 .text-uppercase {
-
-    font-weight: bold; 
-    color: #007bff; 
-    margin-bottom: 30px;
+	font-weight: bold;
+	color: #007bff;
+	margin-bottom: 30px;
 }
 
 .blockquote {
-    color: #232425;
-    margin-bottom: 10px;
-    font-size: 18px;
-    line-height: 30px;
-    margin-top: 15px;
-    
-}  
-
-
-
-
+	color: #232425;
+	margin-bottom: 10px;
+	font-size: 18px;
+	line-height: 30px;
+	margin-top: 15px;
+}
 
 .home-page-image {
-  
-    height: 100%;
-    max-height: 100%;
-    width: auto;
-   
-
-    background: url('../images/home-page-image\ \(1\).jpg') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-   
-    
-}  
+	height: 100%;
+	max-height: 100%;
+	width: auto;
+	background: url('../images/home-page-image\ \(1\).jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
 
 
-/* testimonial container and grid */ 
+/* testimonial container and grid */
 
-/* services container */ 
+
+/* services container */
+
 .container-services {
-
-    font-weight: bold;
-    margin-bottom: 40px;
-    font-size: 16px;
-    line-height: 30px;
-    width: fit-content;
-
+	font-weight: bold;
+	margin-bottom: 40px;
+	font-size: 16px;
+	line-height: 30px;
+	width: fit-content;
 }
 
 .services-header {
-    
-    
-    font-weight: bold;
-    color: #007bff;
-    margin-bottom: 40px;
-    padding: 3%;
-    padding-bottom: 0%;
-   
-}  
+	font-weight: bold;
+	color: #007bff;
+	margin-bottom: 40px;
+	padding: 3%;
+	padding-bottom: 0%;
+}
 
 .services-text {
-    padding: 3%;
-    padding-top: 0%;
+	padding: 3%;
+	padding-top: 0%;
 }
 
 
-/* services container */ 
-/* services grid from W3schools*/ 
+/* services container */
+
+
+/* services grid from W3schools*/
 
 .column {
-  float: left;
-  width: 25%;
-  padding:50px;
+	float: left;
+	width: 25%;
+	padding: 50px;
 }
 
-
 .services-image-1 {
-  
-    height: 50vh;
-    width: auto;
-   
+	height: 50vh;
+	width: auto;
+	background: url('../images/services-image-1\ \(2\).jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
 
-    background: url('../images/services-image-1\ \(2\).jpg') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-   
-    
-}  
-
-
-
-.services-image-2 { 
-
-   
-  
-    height: 50vh;
-    width: 90vh;
-    max-width: 100%;
-
-    background: url('../images/services-images-2\ \(2\).jpg') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    
-
-}  
+.services-image-2 {
+	height: 50vh;
+	width: 90vh;
+	max-width: 100%;
+	background: url('../images/services-images-2\ \(2\).jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
 
 .services-image-3 {
-  
-    height: 50vh;
-    width: 90vh;
-    max-width: 100%;
-
-    background: url('../images/services-images-3\ \(2\).jpg') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
- 
-
-}  
+	height: 50vh;
+	width: 90vh;
+	max-width: 100%;
+	background: url('../images/services-images-3\ \(2\).jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
 
 .services-image-4 {
-  
-    height: 60vh;
-    width: 90vh;
-    max-width: 100%;
-
-
-    background: url('../images/services-images-4\ \(1\).jpg') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-
-}  
+	height: 60vh;
+	width: 90vh;
+	max-width: 100%;
+	background: url('../images/services-images-4\ \(1\).jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
 
 #services-grid-header {
-    padding: 2%;  
-   
+	padding: 2%;
 }
 
 #services-grid-paragraph {
-    padding: 2%;
+	padding: 2%;
 }
-/* services grid*/ 
+
+
+/* services grid*/
+
 
 /* drivers icon section*/
 
 .fa-user-check {
-    padding-left: 3%;
+	padding-left: 3%;
 }
 
-
 .fa-headset {
-    padding-left: 3%;
+	padding-left: 3%;
 }
 
 #icon-text {
-    padding-left: 3%;
+	padding-left: 3%;
 }
- 
+
 #icons-text-a {
-    padding-left:5%;
+	padding-left: 5%;
 }
+
+
 /* drivers icon section*/
+
 
 /* drivers page grid*/
 
 .drivers-image-1 {
-  
-    height: 50vh;
-    width: 90vh;
-    max-width: 100%;
-
-    background: url('../images/drivers-image-1\ \(1\).jpg') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-   
-
-
-
-}  
+	height: 50vh;
+	width: 90vh;
+	max-width: 100%;
+	background: url('../images/drivers-image-1\ \(1\).jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
 
 .driver-text {
-    
-    font-size: 115%; 
-   
-    
-
+	font-size: 115%;
 }
 
 
-/* drivers page grid*/  
+/* drivers page grid*/
 
-/* safety page grid*/ 
+
+/* safety page grid*/
 
 .safety-image-1 {
-  
-    height: 50vh;
-    width: 90vh;
-    max-width: 100%;
-
-    background: url('../images/safety-image-1\ \(1\).jpg') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    position: relative; 
-
-    
-
-}  
-
-.safety-text {
-    font-weight: bold;
-    font-size: 115%; 
-
+	height: 50vh;
+	width: 90vh;
+	max-width: 100%;
+	background: url('../images/safety-image-1\ \(1\).jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
 }
 
-/* safety page grid*/ 
+.safety-text {
+	font-weight: bold;
+	font-size: 115%;
+}
 
-/* safety icon section*/ 
-#safety-icon-text { 
-    padding-left: 5%;
 
-} 
+/* safety page grid*/
+
+
+/* safety icon section*/
+
+#safety-icon-text {
+	padding-left: 5%;
+}
 
 #safety-shield-icon-text {
-    padding-left: 5%;
-} 
+	padding-left: 5%;
+}
 
 .fa-spray-can {
-    padding-left: 5%;
+	padding-left: 5%;
 }
 
 #spray-can-text {
-    padding-left: 5%;
+	padding-left: 5%;
 }
 
-/* safety icon section*/ 
 
-/* Our-commitment container*/ 
+/* safety icon section*/
 
+
+/* Our-commitment container*/
 
 .commitment-header {
- 
-    font-weight: bold;
-    color: #16A73A; 
-    font-size: 115%; 
-    padding-left: 5%;
-    padding-top: 5%;
-    padding-bottom: 5%;
-   
-    
-}  
+	font-weight: bold;
+	color: #16A73A;
+	font-size: 115%;
+	padding-left: 5%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
 
 
-/* Our-commitment container*/ 
+/* Our-commitment container*/
 
-/* Our-commitment grid table*/ 
+
+/* Our-commitment grid table*/
 
 .our-commitments-image-1 {
-  
-   
-    height: 50vh;
-    width: 90vh;
-    max-width: 100%;
-
-    background: url('../images/our-commitment-image=1\ \(1\).jpg') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    position: relative; 
-
-}  
+	height: 50vh;
+	width: 90vh;
+	max-width: 100%;
+	background: url('../images/our-commitment-image=1\ \(1\).jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+}
 
 .our-commitments-image-2 {
-    
-    
-    height: 50vh;
-    width: 90vh;
-    max-width: 100%;
-
-    background: url('../images/our-commitment-image-2\ \(1\).jpg') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    position: relative; 
-
-}  
-
-.text-type   {
-
-
-    font-size: 115%;
-  
+	height: 50vh;
+	width: 90vh;
+	max-width: 100%;
+	background: url('../images/our-commitment-image-2\ \(1\).jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
 }
 
-/* Our-commitment grid table*/ 
+.text-type {
+	font-size: 115%;
+}
 
-/* contact us booking form*/ 
+
+/* Our-commitment grid table*/
+
+
+/* contact us booking form*/
 
 .contact-form {
-    width: 100%; 
-    flex: 100%;
-    max-width: 100%;
-
-}  
-
-
-
-.column-booking {
-    float: left;
-    width: 100%;
-    padding: 100px;
+	width: 100%;
+	flex: 100%;
+	max-width: 100%;
 }
 
+.column-booking {
+	float: left;
+	width: 100%;
+	padding: 100px;
+}
 
 .book-button {
-  
- 
-    width: 50%; 
-    position: relative;
-    top: 25px;
-    left: 15px;
-    background-color: #007bff;
-    color: #ffffff;
-    font-weight: bold;  
- 
-    
+	width: 50%;
+	position: relative;
+	top: 25px;
+	left: 15px;
+	background-color: #007bff;
+	color: #ffffff;
+	font-weight: bold;
 }
 
 .contact {
-    padding-top: 15px;
+	padding-top: 15px;
 }
 
 .make-booking {
-  
-    padding-bottom: 20px;
-    padding-left: 10%;
-    color: #007bff; 
-    
+	padding-bottom: 20px;
+	padding-left: 10%;
+	color: #007bff;
 }
-
-
 
 .container-fluid {
-    padding-right: 0px;
-    padding-left: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
 }
 
 
+/* contact us booking form*/
 
-/* contact us booking form*/ 
 
-/* Our contact details section*/ 
-
+/* Our contact details section*/
 
 .contact-form-left {
-    padding-left: 5%;
+	padding-left: 5%;
 }
 
 .booking-header {
-    margin-top: 11%;
-    color: #007bff; 
-    padding-bottom: 30px;
-
+	margin-top: 11%;
+	color: #007bff;
+	padding-bottom: 30px;
 }
 
 .booking-paragraph-header {
-    font-size: 18px;
-    color: #007bff;
+	font-size: 18px;
+	color: #007bff;
 }
 
 .booking-paragraph {
-
-    font-size: 18px;
-}  
-
-
-/* Our contact details section*/  
+	font-size: 18px;
+}
 
 
+/* Our contact details section*/
 
 
-/* footer */ 
+/* footer */
+
 .footer-container-fluid {
-    padding-right: 0px;
-    padding-left: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
 }
 
 .footer {
-    background-color: #ffff;
-    height: 150px
+	background-color: #ffff;
+	height: 150px
 }
 
 .social-links {
-    text-align: center;
-    padding-left: 30%;
+	text-align: center;
+	padding-left: 30%;
 }
 
 .social-links li {
-    display: inline;
-    
-} 
-
-.social-links i {
-    font-size: 180%; 
-    margin: 1%;
-    padding: 2%;
-    color: #007bff;
-}  
-
-.social-links a {
-    text-decoration: none;
+	display: inline;
 }
 
-.follow-us {  
-   font-size: 120%;  
-   font-weight: bold;
-   padding-right: 30%;
-   color: #007bff;
+.social-links i {
+	font-size: 180%;
+	margin: 1%;
+	padding: 2%;
+	color: #007bff;
+}
 
+.social-links a {
+	text-decoration: none;
+}
+
+.follow-us {
+	font-size: 120%;
+	font-weight: bold;
+	padding-right: 30%;
+	color: #007bff;
 }
 
 .social footer {
-    line-height: 150px;
-
+	line-height: 150px;
 }
 
 .social li {
-    display: inline;
-    padding-left: 57%;
-    font-size: 200%; 
-    color: #007bff;
-    
-}  
+	display: inline;
+	padding-left: 57%;
+	font-size: 200%;
+	color: #007bff;
+}
 
 .or {
-    color: #007bff;
-    display: inline;
-    padding-left: 6%;
-    padding-bottom: 100px;
-    font-weight: bold;
-} 
+	color: #007bff;
+	display: inline;
+	padding-left: 6%;
+	padding-bottom: 100px;
+	font-weight: bold;
+}
 
 .block-divider {
-    background:#007bff; 
-    width: 100%; 
-    max-width: 100%;
-   
+	background: #007bff;
+	width: 100%;
+	max-width: 100%;
+}
+
+.download-header {
+	font-size: 18px;
+	font-weight: bold;
+	padding-left: 50%;
+	margin-top: -6%;
+	color: #007bff;
 }
 
 
-.download-header {
-    font-size: 18px; 
-    font-weight: bold;
-    padding-left: 50%;
-    margin-top: -6% ;
-    color: #007bff;
-   
-}  
-
-/* button from W3schools */ 
+/* button from W3schools */
 
 .button {
-  border: none;
-  color: #ffffff;
-  background-color: #007bff;
-  padding: 10px 25px;
-  text-align: right;
-  display: inline-block;
-  font-size: 16px;
-  bottom: -5px;
-  cursor: pointer;
-  font-weight: bold;
-  position: relative;
-  
-} 
+	border: none;
+	color: #ffffff;
+	background-color: #007bff;
+	padding: 10px 25px;
+	text-align: right;
+	display: inline-block;
+	font-size: 16px;
+	bottom: -5px;
+	cursor: pointer;
+	font-weight: bold;
+	position: relative;
+}
 
 @media only screen and (max-width: 600px) {
-.social-links {
-    padding-left: 0%;
-  }
-} 
-
+	.social-links {
+		padding-left: 0%;
+	}
+}
 
 @media only screen and (max-width: 790px) {
+	.download-header {
+		padding-left: 0%;
+	}
+}
 
-    .download-header {
-        padding-left: 0%;
-        
-    }
 
-    
-  }
- 
+/* button from W3schools */
 
-/* button from W3schools */ 
 
-/* footer */ 
+/* footer */
 
 
 
