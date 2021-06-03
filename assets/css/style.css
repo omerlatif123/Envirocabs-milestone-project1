@@ -388,7 +388,7 @@ body {
 	height: 50vh;
 	width: 90vh;
 	max-width: 100%;
-	background: url('../images/safety-image-1\ \(1\).jpg') no-repeat center center;
+	background: url('../images/safety-image-1.jpg') no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -655,7 +655,8 @@ body {
 }
 
 
-/* button from W3schools */
+
+    /* button from W3schools */
 
 
 /* footer */
