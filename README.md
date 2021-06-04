@@ -82,9 +82,10 @@ iii.[Differences to Design](#Differences-to-Design)
 
 ### What is the purpose? 
 
-The company wants the website to be simple and visually attractive to its customers. They also want website viewers to be given the opportunity to quickly book a cab or download their app with ease through the website. This is the overall goal of the company to have new and existing customers to book cabs.  Envirocabs has also stated that they want to further expand their social media presence and therefore this must be highlighted on their website, to allow website visitors to access their Instagram, Facebook, Twitter and Snap chat.  
+The company wants the website to be simple and visually attractive to its customers. They also want website viewers to be given the opportunity to quickly book a cab or download their app with ease through the website. This is the overall goal of the company to have new and existing customers to book cabs.  Envirocabs has also stated that they want to further expand their social media presence and therefore this must be highlighted on their website, to allow website visitors to access their Instagram, Facebook, Twitter and Snapchat.  
 
-Our client is Envirocabs a start-up minicab office that is environmentally friendly. All Envirocabs vehicles are 100% electric and produce 0% omissions. The client wants to highlight this on their website as an environmentally friendly alternative to its competitors. Furthermore, the company believes there is a niche in the market to attract those aiming to reduce their carbon footprint but still require cabs to travel. The company wants to attract new customers as its innovative and literally a breath of fresh air from its polluting competitors. Envirocabs wants us to also highlight the environmental initiatives to further bolster their public image. 
+Our client is Envirocabs a start-up minicab office that is environmentally friendly, all Envirocabs vehicles are 100% electric and produce 0% omissions. The client wants to highlight this on their website as an environmentally friendly alternative to its competitors. Furthermore, the company believes there is a niche in the market to attract those aiming to reduce their carbon footprint but still require cabs to travel. The company wants to attract new customers as its innovative and literally a breath of fresh air from its polluting competitors. 
+Envirocabs wants us to also highlight the environmental initiatives to further bolster their public image. 
 
 ## UXD 
 
@@ -105,7 +106,7 @@ Our client is Envirocabs a start-up minicab office that is environmentally frien
 
 ## Structure 
 
-1)	I want to be able to navigate through the website quick and easily.   
+1)	I want to be able to navigate through the website quick and easily.
     
     The website will have a navigation menu at the top of the webpage, that will allow a visitor to select a heading to direct them to a new page. The header will have a logo when pressed that will take the visitor (which is a modern feature of other websites) to the Home Page. The rest of the header will have the following new page links Services, Drivers, Safety, Our Commitments and Contact Us.    
 
@@ -115,7 +116,9 @@ Our client is Envirocabs a start-up minicab office that is environmentally frien
 
 3)	 I want to learn about the company and its ethos on their website.  
      
-     The Home page will have a section which gives a visitor information about the company with the use of icon and text. Too much information will not be provided as to prevent the users from being overwhelmed with information on the Home page. The home page will feature testimonials from previous customers to reassure any new customer about its service. For further information about the company’s ethos the visitor can click on our commitments heading. The page will highlight the company’s commitment to the environment and its plant a tree initiative. It will state what the company has implemented to make itself environmentally friendly.    
+     The Home page will have a section which gives a visitor information about the company with the use of icon and text. Too much information will not be provided as to prevent the users from being overwhelmed with information on the Home page. The home page will feature testimonials from previous customers to reassure any new customer about its service. 
+     
+     For further information about the company’s ethos the visitor can click on our commitments heading. The page will highlight the company’s commitment to the environment and its plant a tree initiative. It will state what practices the company has implemented to make itself environmentally friendly.    
 
 4)	I want to be able to follow the company on various media platforms.  
     
@@ -123,15 +126,17 @@ Our client is Envirocabs a start-up minicab office that is environmentally frien
 
 5)	I want to learn about the safety procedures the company has in place during the pandemic.  
      
-     Considering the on-going pandemic, customers want to be reassured that practices are in places to keep them protected. The Safety page will highlight with icon and information that the vehicles are regularly cleaned, drivers will wear a face mask along with customers, hand sanitiser is available to use, and safety screens are in every vehicle.  The company’s commitment to customer safety will be highlighted by promoting they have acquired an accreditation in hygiene.
+     Considering the on-going pandemic, customers want to be reassured that practices are in places to keep them protected. The Safety page will highlight with icons and information vehicles are regularly cleaned, drivers will wear a face mask along with customers, hand sanitiser is available to use, and safety screens are in every vehicle.  The company’s commitment to customer safety will be highlighted by promoting they have acquired an accreditation in hygiene.
 
 6)	We want visitors to the site, to book on our website directly or download our app to book a cab.  
 
-    The Website Homepage will have a button on the hero image that when selected will take the visitor to the contact us page. Furthermore, on every page the website footer has the option to book directly through the website with a make a booking button or to select the apple or android icons that will allow the customer to download our app.   
+    The Website Homepage will have a button on the hero image that when selected will take the visitor to the contact us page. 
+    
+    Furthermore, on every page the website footer has the option to book directly through the website with a make a booking button or to select the apple or android icons that will allow the customer to download our app.   
 
 7)	We want visitors to be aware our fleet of vehicles are 100% electric and there 0% emissions, want to target customers who want to reduce their carbon footprint and those wanting to be greener. 
     
-    On the Homepage the visitor to the site will be given some information about Envirocabs. The visitor will be provided with information that the vehicles are electric and produce no emissions. Other headers such as Service will provide type of cabs we offer (standard 5-seater car, executive car, and 7-seater car), and other services such as removals (van) we offer but emphasising our fleet of vehicles are 100% electric and produce 0% emissions. 
+    On the Homepage the visitor to the site will be given some information about Envirocabs. The visitor will be provided with information that the vehicles are electric and produce no emissions. Other headers such as Service will provide the type of cabs we offer (standard 5-seater car, executive car, and 7-seater car), and other services such as removals (van) but emphasising our fleet of vehicles are 100% electric and produce 0% emissions. 
 
 8)	We want visitors to be presented with information that we are a green alternative to other companies.     
     
@@ -148,13 +153,15 @@ Our client is Envirocabs a start-up minicab office that is environmentally frien
       
 ## Skeleton
 
-Wireframe mockups were created in a Balsamic with our clients and potential visitors goal in mind.
+Wireframe mockups were created in a Balsamic with our clients and potential visitors goals in mind.
 Images section in the wireframes have been higlighted in blue, this was previously due to the images from the wireframe being different from the completed website. 
 Furthermore the images used on the final Envirocabs website are free to use images causing no copyright/royalty payment concerns. Some of the images from the wireframes may not have been copyright/royalty free and therefore the imagess have bee covered as a precaution. 
 
 Home Page:
 ![home Page Wireframe](assets/readme-files/home-wireframe-page.png "home Page Wireframe")
 
+please note the image next to the testimonial section was intially on right hand side as reflected by the wireframes.
+In the finshed website the images is on the left hand side.
 
 Services Page:
 ![services Page Wireframe](assets/readme-files/services-page.png "services Page Wireframe")
@@ -174,8 +181,11 @@ Contact Us Page:
 # Design
 
 ### Colour Scheme
-The two main colours used are Blue and White as these colours compliment the Envirocabs logo. The colour concept is blue because this is associated with the colour of electricity this relates to our vehicles being 100% electric. White was used as a contrast to blue and gives the website a simplistic but professional and sytlish look. The website should look appealing but should allow the customer to focus on the content rather than to visually distracted by an array of colours.
-Green was picked for the Our Commitment page in which we the client wanted to highlight their green initiatives and procedures Envirocabs is implementing to go greener. Environment is associated with green and therefore we wanted this to be highlight. All other webpages have blue text, but Our Commitment page has green text. The sudden colour change will draw the attention of the user when they are on this page.   
+The two main colours used are Blue and White as these colours compliment the Envirocabs logo. The colour concept is blue because this is associated with the colour of electricity this relates to our vehicles being 100% electric. White was used as a contrast to blue and gives the website a simplistic but professional and sytlish look. The website should look appealing but allow the customer to focus on the content rather than to visually distracted by an array of colours.
+
+Green was picked for the Our Commitment page in which we the client wanted to highlight their green initiatives and procedures Envirocabs is implementing to go greener. Environment is associated with green and therefore we wanted this to be highlighted. All other webpages have blue text, but Our Commitment page has green text. The sudden colour change will draw the attention of the user when they are on this page.   
+
+Various shades of the main colours are used throughtout the website, keeping are colour scheme but at the same time preventing the website becoming visually dull. 
 
  #### Colours used in website background and text.
 
@@ -197,10 +207,10 @@ Green was picked for the Our Commitment page in which we the client wanted to hi
 
 
 #### Typography
-The headers on all pages throughout the Website and main text is using the font ‘Roboto’ with default text of ‘San-Serif’. The header text and parts of the main text are bold catching the user’s eye. We have kept our content at a minimal not to make our website cluttered or causing the user cognitive overload with large amount of information text. Furthermore when researching other cab webpages such as uber,bolt etc have minimalistic content.
+The headers on all pages throughout the Website and main text use the font ‘Roboto’ with default text of ‘San-Serif’. The header text and parts of the main text are bold catching the user’s eye. We have kept our content at a minimal not to make our website cluttered or to prevent cognitive overload with large amount of information. Furthermore when researching other cab webpage the best one's have minimalistic content.
 
 #### Imagery
-Brand awareness is important to Envirocabs and they have requested their own Logo to be used in the Nav section of the website. The header contains the Envirocabs logo which has been designed and created on www.wix.com. (https://www.wix.com/logo/maker/esh). The logo is interactive and when clicked will redirect the user back to the home page.   
+Brand awareness is important to Envirocabs and they have requested their own Logo to be used in the Nav section of the website. The header contains the Envirocabs logo which has been designed and created on www.wix.com. The logo is interactive and when clicked will redirect the user back to the home page.   
 The images used are all related to section of the website the user is on, for example in the safety section the hero image is of a car interior being cleaned. The imagery chosen fits well within the theme of the webpage as they relate to the subject matter. The imagery used is also visually striking without being overbearing on the rest of the webpage.     
 
 
@@ -210,42 +220,46 @@ The images used are all related to section of the website the user is on, for ex
 
 ### <strong>Header</strong>
 
-Contains Envirocabs logo in the top left of screen and when clicked will redirect user back to home page. The right of the navigation bar contains headings (our Services, Drivers, Safety, Our Commitment and Contact us when clicked will direct user to appropriate page of website. 
+Contains Envirocabs logo in the top left of screen and when clicked will redirect the user back to home page. The right of the navigation bar contains headings (our Services, Drivers, Safety, Our Commitment and Contact us when clicked will direct user to appropriate page of website). 
 On smaller screens, the navigation bar collapses into a toggler icon. Clicking it will reveal navigation headings.  
 
 ### <strong>Footer</strong>
 
-Left hand side of the footer contains make a booking button when clicked will redirect user to contact us page which has the make a booking form. The user can make a booking directly through the Envirocabs website or is given the option to download the app. Both the Apple icon and Android icon when clicked will redirect users to their platforms for them to download the app. The right-hand side of the footer contains social media icons, when clicked will redirected to the company’s social media pages.  
+Left hand side of the footer contains make a booking button when clicked will redirect user to contact us page which has the make a booking form. The user can make a booking directly through the Envirocabs website or is given the option to download the app. Both the Apple icon and Android icon when clicked will redirect users to their platforms for them to download the app. 
+
+The right-hand side of the footer contains social media icons, when clicked will redirected to the company’s social media pages.  
 
 ### <strong>Home Page</strong>
 
-Hero image with Booking button- Below the header there will be a large hero image with a bold blue/ white booking button. The booking button on the hero image when clicked will redirect the user to the contact us page which has the make a booking form. The high-quality professional image used sets the tone for Envirocabs webpage. 
+Hero image with Booking button- Below the header there will be a large hero image with a bold green/white booking button. The booking button on the hero image when clicked will redirect the user to the contact us page which has the make a booking form. The high-quality professional image used sets the tone for Envirocabs webpage. 
 Information container with icons- The information container provides brief information about the positives of using Envirocabs to the user/customer. Information is concise and straight to the point therefore keeping the user engaged. Too information may prevent the user from reading further, icons above the information to makes it visually appealing.   
 Testimonial- The testimonial section provides quotes and images of happy customers. This was designed to persuade users/customers to use Envirocabs. When reading positive comments about the company it will reassure users/ first time customers who are thinking of using Envirocabs. The testimonial background colour was used to draw the user’s attention to the section and break up the colour scheme of the webpage. 
+Image- A image next to the testimonial section will help break the page down and image of a suitcase also provoke thoughts of travel to the vistors/customer.
 
 ### <strong>Our Services section</strong>
 
 Hero image- The large hero image below the navbar will be relevant to the section.
-Information container- provides the relevant information to the customer about Envirocabs electric vehicles and visually separates the page. The section has been left with colour to the text or background to prevent visual overload. The hero image is visually striking and the services grid therefore in the middle of the webpage is left plain. 
-Information grid with images- grid of 8 boxes but split into sections of 2. The boxes on the left side contain information about the vehicles and the boxes on the right side have the images of vehicles. This provides clarity to the user/customer to view and read about the vehicle that suits their need before they book. Two tons of blue are used to alternate between the boxes to create a visually appealing section.    
+Information container- provides relevant information to the vistor about Envirocabs electric vehicles and visually separates the page. The section has been left without colour to the text or background to prevent visual overload and to break the page up. The hero image is visually striking and the services grid is also visually striking therefore the middle of the webpage is left plain. 
+Information grid with images- grid of 8 boxes but split into sections of 2. The boxes on the left side contain information about the vehicles and the boxes on the right side have the images of vehicles. This provides clarity to the user/customer to view and read about the vehicle that suits their need before they book. Two tones of blue are used to alternate between the boxes to create a visually appealing section.    
 
 ### <strong>Drivers section</strong>  
 
 Hero image- The large hero image below the navbar will be relevant to the section.
-Information container with icons- The information container provides brief information about the Envirocabs drivers, for customers own peace of mind information such as drivers being certified and have had criminal background checks provide reassurance to user/customer that they are in the safe hands of a professional company. Information is concise and straight to the point therefore keeping the user engaged. Too information may prevent the user from reading further, icons above the information to makes it visually appealing.     
+Information container with icons- The information container provides brief information about the Envirocabs drivers, for customers own peace of mind information such as drivers being certified and have had criminal background checks provide reassurance to user/customer that they are in the safe hands of a professional company. 
+Information is concise and straight to the point therefore keeping the user engaged. Too information may prevent the user from reading further, icons above the information to makes it visually appealing.     
 Information container with picture - provides the relevant information to the customer about customer safety, the section has been split. The left side has a visually striking image, and the right side has information. The section provides information about safety of passenger, the customers journey can be tracked via GPS. The Envirocabs app has an emergency panic button or customers/drivers can call a 24/7 support team. Dark blue has been used for the text and lighter tone of blue has been used for the container’s background. Both colours complement each other will without either being overbearing visually. 
 
 ### <strong>Safety section</strong>  
 
 Hero image- The large hero image below the navbar will be relevant to the section.
-Information container with icons- The information container provides brief information about the procedures Envirocabs has implemented to keep customers during covid-19 pandemic. This section provides Information into the safety policies implemented such as requiring both customers and drivers to wear masks. Brief information is provided about the companies cleaning procedure and hand sanitiser readily available to customers. The information is concise and straight to the point therefore keeping the user engaged. This section provides reassurance to customers that Envirocabs is doing its upmost to be covid safe. Too information may prevent the user from reading further, icons above the information to makes it visually appealing.        
+Information container with icons- The information container provides brief information about the procedures Envirocabs has implemented to keep customers safe during covid-19 pandemic. This section provides Information into the safety policies implemented such as requiring both customers and drivers to wear masks. Brief information is provided about the companies cleaning procedure and hand sanitiser readily available to customers. The information is concise and straight to the point therefore keeping the user engaged. This section provides reassurance to customers that Envirocabs is doing its upmost to be covid safe. Too information may prevent the user from reading further, icons above the information to makes it visually appealing.        
 Information container with picture - provides the relevant information to the customer about customer safety, the section has been split. The right side has a visually striking image, and the left side has information. Information that Envirocabs has been accredited in safety and hygiene certificate 2021 for cleanliness of vehicles. 
 
 ### <strong>Our Commitments section</strong> 
 
 Hero image- The large hero image below the navbar will be relevant to the section.
 Quote container- has a large commitment message from Envirocabs.
-Information container with picture - provides the relevant information to the customer about the environmental initiatives and commitments Envirocabs has implemented. The sections alternate with information and images. One section of information provides details on Envirocabs plant a tree campaign and the other section of information provide details of procedures Envirocabs has introduced to become greener. Green has been used for the text colour to reinforce the concept of environmentally friendly.
+Information grid with images - provides the relevant information to the customer about the environmental initiatives and commitments Envirocabs has implemented. The sections alternate with information and images. One section of information provides details on Envirocabs plant a tree campaign and the other section of information provide details of procedures Envirocabs has introduced to become greener. Green has been used for the text colour to reinforce the concept of environmentally friendly.
 
 
 ### <strong>Contact us section</strong>
@@ -420,6 +434,42 @@ Testing user stories
 
     ![image-14](assets/readme-files/image-13.png) 
     ![image-15](assets/readme-files/image-14.png) 
+
+
+### Code Validator
+
+The W3C Markup Validator was used to validate the HTML code and The W3C CSS Validator service was used to validate the CSS coded used.
+
+Results:  
+
+index.html 
+
+![code-1](assets/readme-files/code-1.png)
+
+services.html 
+
+![code-2](assets/readme-files/code-2.png)
+
+drivers.html
+
+![code-3](assets/readme-files/code-3.png)
+
+safety.html 
+
+![code-4](assets/readme-files/code-4.png)
+
+our-commitments.html
+
+![code-5](assets/readme-files/code-5.png)
+
+contact-us.html
+
+![code-6](assets/readme-files/code-6.png)  
+
+css 
+
+![code-7](assets/readme-files/code-7.png)  
+
 ### Lighthouse Auditing  
 I tested the performance of each page through google lighthouse but had issues with the testing and have added a screenshot of the results from fellow students. The reason was due to my internet connection within my area that adversely affected my lighthouse results. 
 My initial tests scores were in 80’s and 90’s except for the performance section which was well below 50. 
