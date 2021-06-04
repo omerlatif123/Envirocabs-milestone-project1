@@ -522,6 +522,10 @@ body {
 .container-fluid {
 	padding-right: 0px;
 	padding-left: 0px;
+} 
+
+#form-control-booking-date {
+    padding: 0%;
 }
 
 
