@@ -475,7 +475,15 @@ I tested the performance of each page through google lighthouse but had issues w
 My initial tests scores were in 80’s and 90’s except for the performance section which was well below 50. 
 When examining the lighthouse report further two of my biggest issues were the speed and the TBT (total blocking time). To resolve this, I spoke to my fellow students on slack who advised me to compress the size of my image as this may resolve issue and address why my website loaded slowly. I then used the website TinyJPG to put all my images through to reduce the file size to help the loading process. 
 
-My website was loading a lot faster, and I thought the issue had been resolved, further inspection on lighthouse my performance score only went up by a small amount. Other students who had tested my website had significantly higher scores in comparison to my own. It was not until my mentor meeting that we realised that my local internet connection as tested on Fast.com was considerably slower in comparison to my mentor (who had a good lighthouse test result for my website). Due to my slow internet connection, I cannot properly utilise lighthouse so therefore I have attached images of lighthouse test reports which have been provided by fellow students.
+My website was loading a lot faster, and I thought the issue had been resolved, further inspection on lighthouse my performance score only went up by a small amount. Other students who had tested my website had significantly higher scores in comparison to my own. It was not until my mentor meeting that we realised that my local internet connection as tested on Fast.com was considerably slower in comparison to my mentor (who had a good lighthouse test result for my website). 
+Due to my slow internet connection, I cannot properly utilise lighthouse so therefore I have attached images of lighthouse test reports which have been provided by fellow students.
+
+ ![test-1](assets/readme-files/test-1.png) 
+ ![test-2](assets/readme-files/test-2.png) 
+ ![test-3](assets/readme-files/test-3.png)
+ ![test-4](assets/readme-files/test-4.png)
+ ![test-5](assets/readme-files/test-5.png)
+ ![test-6](assets/readme-files/test-6.png)
 
 ### User testing
 
@@ -487,8 +495,6 @@ It was through this testing that the following changes were made:
 •	My images were loading too slowly and may be too big, I used tiny.JPG to address this issue as mentioned by a fellow student. 
 
 •	The make a booking button on the home page when pressed would transfer to contact us page. A fellow student suggested that when pressed the button should directly take the user the booking form rather then having to scroll down in the contact us page to get to the form. 
-
-
 
 
 # Deployment
