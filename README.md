@@ -8,7 +8,7 @@
 
 # Index
 
-1. [What is the purpose?](#What-is-the-purpose?)
+1. [Introduction](#Introduction)
 
 2. [UX](#UX)
 
@@ -80,7 +80,7 @@ iii.[Differences to Design](#Differences-to-Design)
 #
 
 
-### What is the purpose? 
+## Introduction
 
 The company wants the website to be simple and visually attractive to its customers. They also want website viewers to be given the opportunity to quickly book a cab or download their app with ease through the website. This is the overall goal of the company to have new and existing customers to book cabs.  Envirocabs has also stated that they want to further expand their social media presence and therefore this must be highlighted on their website, to allow website visitors to access their Instagram, Facebook, Twitter and Snapchat.  
 
