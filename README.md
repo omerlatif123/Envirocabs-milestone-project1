@@ -543,9 +543,11 @@ I created the repository using the following steps:
 Forking the GitHub Repository
 
 Forking a repository enables us to make a copy of the original repository on our GitHub account so we can view it and make changes without affecting the original work. This is done using the following steps:
-1.	Log in to GitHub account and select the relevant repository.
-2.	To the top right of the page there are three the buttons, the furthest right says Fork. Click on this button.
-3.	A copy of the original repository will now be in your account.
+
+1. Log into GitHub or create an account.
+2. Locate the GitHub Repository.
+3. At the top of the repository, on the right side of the page, select "Fork"
+4. You should now have a copy of the original repository in your GitHub account.
 
 Making a Clone
 
