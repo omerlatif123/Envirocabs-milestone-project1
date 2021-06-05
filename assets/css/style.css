@@ -24,7 +24,9 @@ body {
 	height: 1%;
 }
 
-<!-- envirocabs logo made in Wix.com-->.Envirocabs-logo {
+<!-- envirocabs logo made in Wix.com-->
+
+.Envirocabs-logo {
 	background: url("../images/envirocabs-logo.jpg");
 }
 
@@ -34,7 +36,7 @@ body {
 .hero-image {
 	height: 90vh;
 	max-width: 100%;
-	background: url('../images/Hero\ image\ page\ 1\ test.jpg') no-repeat center center;
+	background: url('../images/Hero-image-page-1.jpg') no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -136,7 +138,7 @@ body {
 }
 
 
-/* Hero image for our commitment page from pexels.com */
+/* Hero image for our commitment page from unsplash */
 
 
 /* Hero image for contact us page from pexels.com */
