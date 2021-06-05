@@ -8,7 +8,7 @@
 
 # Index
 
-1. [What is the purpose?](#What-is-the-purpose?)
+1. [What is the purpose?](#What-is-the-purpose-?)
 
 2. [UX](#UX)
 
