@@ -10,7 +10,7 @@
 
 1. [What is the purpose?](#What-is-the-purpose?)
 
-2. [UX](#UX) 
+2. [UX](#UX)
 
  <ul>
 
@@ -87,9 +87,10 @@ The company wants the website to be simple and visually attractive to its custom
 Our client is Envirocabs a start-up minicab office that is environmentally friendly, all Envirocabs vehicles are 100% electric and produce 0% omissions. The client wants to highlight this on their website as an environmentally friendly alternative to its competitors. Furthermore, the company believes there is a niche in the market to attract those aiming to reduce their carbon footprint but still require cabs to travel. The company wants to attract new customers as its innovative and literally a breath of fresh air from its polluting competitors. 
 Envirocabs wants us to also highlight the environmental initiatives to further bolster their public image. 
 
-## UXD 
+## UX
 
- Visitor goals     
+### Visitor goals     
+
 1)	I want to be able to navigate through the website quick and easily. 
 2)	I want the process to book a cab to be simple as possible.  
 3)	I want to learn about the company and its ethos on their website.  
@@ -295,7 +296,7 @@ Information is concise and straight to the point therefore keeping the user enga
 
 - Contact Form - This can be completed on the contact us page and used to book a cab. Brief information is required from the user/customer to complete the form. If any information is missing the form will specify. 
 
-#
+
 ## Differences to Design
 
 In the original design, the booking button and download our app link was in the footer even when reduced to mobile device size. Current design the section is hidden when reduced to a smaller size this something that should be rectified in the future. 
